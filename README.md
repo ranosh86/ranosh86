@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranosh86
+- 👋 Hi, I’m @ranosh
 - 👀 
 - 🌱 I’m currently learning Java, GitHub and so many other things here!
 - 💞️ I’m looking to collaborate on any Java subject
