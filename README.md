@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ranosh
-- 👀 
-- 🌱 I’m currently learning Java, GitHub and so many other things here!
-- I’m looking to collaborate on any Java subject
+- I’m looking to collaborate on any Automation Testing subject.
 
 
 <!---
