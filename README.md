@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ranosh
-- I’m looking to collaborate on any Automation Testing subject.
+- I’m looking forward to collaborate on any Automation Testing subject.
 
 
 <!---
